@@ -1,4 +1,4 @@
-#### Milvus images
+#### Milvus images for Mac M1 processor
 ```bash
 docker run -d --name milvus-standalone \
   --platform linux/amd64 \
